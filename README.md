@@ -119,7 +119,7 @@ Here are some ideas to get you started:
 - [![GitHub followers](https://img.shields.io/github/followers/Mrushan2021.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Mrushan2021?tab=followers)
   
 
-<p align="center"> <a href="https://github.com/MrUshan2003"><img src="https://github-profile-trophy.vercel.app/?username=Mrushan2021&no-bg=true" alt="MrUshan2003" /></a> </p>
+<p align="center"> <a href="https://github.com/MrUshan2003"><img src="https://github-profile-trophy.vercel.app/?username=MrUshan2003&no-bg=true" alt="MrUshan2003" /></a> </p>
 
 # Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
 
