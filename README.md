@@ -1,4 +1,4 @@
-- HELLO <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [✫ MR USHAN ♔ ](https://t.me/mrushansubhagya) | [![Profile views](https://komarev.com/ghpvc/?username=Mrushan2021a&label=Profile%20views)](https://github.com/MrUshan2003) 
+- HELLO <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [✫ MR USHAN ♔ ](https://t.me/mrushansubhagya) | [![Profile views](https://komarev.com/ghpvc/?username=MrUshan2003a&label=Profile%20views)](https://github.com/MrUshan2003) 
 
    <img src="https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MY+PROFILE&font=Fira%20Code&center=true&width=380&height=50">
 
