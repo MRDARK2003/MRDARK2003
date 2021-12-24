@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
  
 **[✫ MR USHAN ♔ ](https://t.me/mrushansubhagya)** <div align="center"><img src="https://profile-counter.glitch.me/Mrushan2021/count.svg" /><br>Profile Viewers</div>
 
-> `Website:` [✫ MR USHAN ♔ ](https://github.com/Mrushan2021.io/) <br>
+> `Website:` [✫ MR USHAN ♔ ](https://github.com/MrUshan2003.io/) <br>
 
 ![✫ MR USHAN ♔ Git Stats](https://github-readme-stats.vercel.app/api?username=Mrushan2021&include_all_commits=true&count_private=true&theme=highcontrast)
  #### Contact me
@@ -37,7 +37,7 @@ You can use the website to generate badges: https://shields.io/
 <details>
   <summary> Github Stats </summary>
   <br/>
-<p align="left"> <a href="https://github.com/MrUshan2003"><img src="https://github-profile-trophy.vercel.app/?username=Mrushan2021&no-bg=true" alt="SADEW" /></a> </p>
+<p align="left"> <a href="https://github.com/MrUshan2003"><img src="https://github-profile-trophy.vercel.app/?username=MrUshan2003&no-bg=true" alt="SADEW" /></a> </p>
 </details>
 
 # 📊 Status
@@ -66,7 +66,7 @@ You can use the website to generate badges: https://shields.io/
 
 ## Contribution Graph 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sadew451&theme=highcontrast" alt="Mrushan2021" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sadew451&theme=highcontrast" alt="MrUshan2003" /></p>
 
 ### Contribution Graph:
 
@@ -119,7 +119,7 @@ Here are some ideas to get you started:
 - [![GitHub followers](https://img.shields.io/github/followers/Mrushan2021.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Mrushan2021?tab=followers)
   
 
-<p align="center"> <a href="https://github.com/MrUshan2003"><img src="https://github-profile-trophy.vercel.app/?username=Mrushan2021&no-bg=true" alt="Mrushan2021" /></a> </p>
+<p align="center"> <a href="https://github.com/MrUshan2003"><img src="https://github-profile-trophy.vercel.app/?username=Mrushan2021&no-bg=true" alt="MrUshan2003" /></a> </p>
 
 # Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
 
