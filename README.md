@@ -79,7 +79,7 @@ You can use the website to generate badges: https://shields.io/
 
 > MOST USED LANGUAGES
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mrushan2021&show_icons=true&layout=compact&theme=highcontrast" alt="Sadew451" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrUshan2003&show_icons=true&layout=compact&theme=highcontrast" alt="Sadew451" /></p>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mrushan2021)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/SadewJayasekara/)
