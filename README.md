@@ -1,5 +1,4 @@
-- HELLO <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [✫ MR USHAN ♔ ](https://t.me/mrushansubhagya) | [![Profile views](https://komarev.com/ghpvc/?username=Mrushan2021a&label=Profile%20views)](https://github.com/Mrushan2021) 
-
+- HELLO <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [✫ MR USHAN ♔ ]
    <img src="https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MY+PROFILE&font=Fira%20Code&center=true&width=380&height=50">
 
 <!-- Your badges
@@ -16,11 +15,11 @@ You can use the website to generate badges: https://shields.io/
 
 
  
-**[✫ MR USHAN ♔ ](https://t.me/mrushansubhagya)** <div align="center"><img src="https://profile-counter.glitch.me/Mrushan2021/count.svg" /><br>Profile Viewers</div>
+**[✫ MR USHAN ♔ ](https://t.me/mrushansubhagya)** <div align="center"><img src="https://profile-counter.glitch.me/MrUshan2003/count.svg" /><br>Profile Viewers</div>
 
 > `Website:` [✫ MR USHAN ♔ ](https://github.com/MrUshan2003.io/) <br>
 
-![✫ MR USHAN ♔ Git Stats](https://github-readme-stats.vercel.app/api?username=Mrushan2021&include_all_commits=true&count_private=true&theme=highcontrast)
+![✫ MR USHAN ♔ Git Stats](https://github-readme-stats.vercel.app/api?username=MrUshan2003&include_all_commits=true&count_private=true&theme=highcontrast)
  #### Contact me
 <!-- png icons from https://iconscout.com/ -->
 
